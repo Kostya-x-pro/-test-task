@@ -384,7 +384,7 @@ html, body {
     }
 
     .pricing-card.best-offer, .pricing-card {
-        gap: 30px;
+        gap: 22px;
     }
 
     .status-bar-small {
